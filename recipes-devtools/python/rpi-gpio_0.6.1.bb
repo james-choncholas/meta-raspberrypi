@@ -7,7 +7,7 @@ LIC_FILES_CHKSUM = "file://LICENCE.txt;md5=9b95630a648966b142f1a0dcea001cb7"
 SRCNAME = "RPi.GPIO"
 
 SRC_URI = "\
-          http://pypi.python.org/packages/source/R/RPi.GPIO/${SRCNAME}-${PV}.tar.gz \
+          https://pypi.python.org/packages/source/R/RPi.GPIO/${SRCNAME}-${PV}.tar.gz \
           file://0001-Remove-nested-functions.patch \
           "
 SRC_URI[md5sum] = "254d0443a436eb241367c487274e7197"
